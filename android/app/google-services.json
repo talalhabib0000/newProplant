@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235195994211",
+    "project_id": "proplanttest1",
+    "storage_bucket": "proplanttest1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235195994211:android:56e3b69c6c9e74014ba856",
+        "android_client_info": {
+          "package_name": "com.example.community"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235195994211-i170hdip2t1u9vu5h56ollvv0phaosp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnh7jfQJfMuJgFrqJJ8Lo2QSU7v7vTm1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235195994211-i170hdip2t1u9vu5h56ollvv0phaosp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
