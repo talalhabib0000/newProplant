@@ -57,6 +57,8 @@ flutter:
     - assets/models/yolov2_tiny.txt
     - assets/models/ssd_mobilenet.tflite
     - assets/models/ssd_mobilenet.txt
+    - assets/models/model_unquant.tflite
+    - assets/models/labels.txt
     - assets/models/mobilenet_v1_1.0_224.tflite
     - assets/models/mobilenet_v1_1.0_224.txt
     - assets/models/posenet_mv1_075_float_from_checkpoints.tflite
